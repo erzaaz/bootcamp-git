@@ -1,1 +1,2 @@
-# taip notes pembelajaran, Save (Ctrl+S)
+notes pembelajaran
+Read = git log + git diff

@@ -4,4 +4,4 @@
 # Belajar git workflow lokal.
 
 Senarai Arahan
-- git init / git add / git commit
+- git init / git add / git commit## Tarikh
